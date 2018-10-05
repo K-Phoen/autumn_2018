@@ -1,0 +1,54 @@
+boucle:
+    title: Scotland – 2018
+
+    map_provider: mapbox
+    map_api_key: pk.eyJ1Ijoiay1waG9lbiIsImEiOiJjamZmbjl0dzMzejB1MzNucm92MzhiYWlwIn0.zPborWgq1bj6PEaZgJRiEA
+
+    start: Lyon, France
+
+    steps:
+        -
+            to: Porto, Portugal
+            with: plane
+            date: '2018-10-02'
+        -
+            to: Coimbra, Portugal
+            with: train
+            date: '2018-10-08'
+        -
+            to: Lisbon, Portugal
+            with: train
+            date: '2018-10-11'
+            duration: 4 days
+        -
+            to: Lagos, Portugal
+            with: train
+            duration: 3 days
+        -
+            to: Faro, Portugal
+            with: train
+            duration: 3 days
+        -
+            to: Sevilla, Spain
+            with: train
+            duration: 4 days
+        -
+            to: Màlaga, Spain
+            with: train
+            duration: 3 days
+        -
+            to: Granada, Spain
+            with: train
+            duration: 3 days
+        -
+            to: Valencia, Spain
+            with: train
+            duration: 3 days
+        -
+            to: Barcelona, Spain
+            with: train
+            duration: 3 days
+        -
+            to: Lyon, France
+            with: plane
+            duration: 3 days
