@@ -11,6 +11,9 @@ boucle:
             to: Porto, Portugal
             with: plane
             date: '2018-10-02'
+            album:
+                path: albums/porto
+                cover: PA060804.JPG
         -
             to: Coimbra, Portugal
             with: train
@@ -21,8 +24,14 @@ boucle:
             date: '2018-10-11'
             duration: 4 days
         -
+            to: Sintra, Portugal
+            with: bus
+            date: '2018-10-13'
+            type: daytrip
+        -
             to: Lagos, Portugal
             with: train
+            date: '2018-10-15'
             duration: 3 days
         -
             to: Faro, Portugal

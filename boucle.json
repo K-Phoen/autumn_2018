@@ -12,7 +12,40 @@
         "arrival_date": "2018-11-06"
     },
     "steps": {
-        "bus": [],
+        "bus": [
+            {
+                "from": {
+                    "name": "Lisbon, Portugal",
+                    "lat": 38.7077507,
+                    "long": -9.1365919
+                },
+                "to": {
+                    "name": "Sintra, Portugal",
+                    "lat": 38.8355605,
+                    "long": -9.35222525884862
+                },
+                "path": "",
+                "arrival_date": "2018-10-13",
+                "departure_date": "2018-10-13",
+                "album": null
+            },
+            {
+                "from": {
+                    "name": "Sintra, Portugal",
+                    "lat": 38.8355605,
+                    "long": -9.35222525884862
+                },
+                "to": {
+                    "name": "Lisbon, Portugal",
+                    "lat": 38.7077507,
+                    "long": -9.1365919
+                },
+                "path": "",
+                "arrival_date": "2018-10-13",
+                "departure_date": "2018-10-15",
+                "album": null
+            }
+        ],
         "car": [],
         "plane": [
             {
@@ -29,7 +62,10 @@
                 "path": "",
                 "arrival_date": "2018-10-02",
                 "departure_date": "2018-10-08",
-                "album": null
+                "album": {
+                    "path": ".\/albums\/porto",
+                    "cover": ".\/albums\/porto\/boucle\/thumb_PA060804.JPG"
+                }
             },
             {
                 "from": {
@@ -79,7 +115,7 @@
                 },
                 "path": "",
                 "arrival_date": "2018-10-11",
-                "departure_date": "2018-10-15",
+                "departure_date": "2018-10-13",
                 "album": null
             },
             {
