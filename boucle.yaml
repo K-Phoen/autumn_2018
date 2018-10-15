@@ -25,13 +25,18 @@ boucle:
             duration: 4 days
         -
             to: Sintra, Portugal
-            with: bus
-            date: '2018-10-13'
+            with: train
+            date: '2018-10-14'
+            type: daytrip
+        -
+            to: Cascais, Portugal
+            with: train
+            date: '2018-10-17'
             type: daytrip
         -
             to: Lagos, Portugal
             with: train
-            date: '2018-10-15'
+            date: '2018-10-19'
             duration: 3 days
         -
             to: Faro, Portugal
@@ -40,23 +45,19 @@ boucle:
         -
             to: Sevilla, Spain
             with: train
-            duration: 4 days
+            duration: 5 days
         -
             to: Màlaga, Spain
             with: train
-            duration: 3 days
+            duration: 4 days
         -
             to: Granada, Spain
             with: train
-            duration: 3 days
-        -
-            to: Valencia, Spain
-            with: train
-            duration: 3 days
+            duration: 4 days
         -
             to: Barcelona, Spain
             with: train
-            duration: 3 days
+            duration: 5 days
         -
             to: Lyon, France
             with: plane
