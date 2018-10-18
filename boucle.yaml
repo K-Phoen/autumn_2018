@@ -29,11 +29,6 @@ boucle:
             date: '2018-10-14'
             type: daytrip
         -
-            to: Cascais, Portugal
-            with: train
-            date: '2018-10-17'
-            type: daytrip
-        -
             to: Lagos, Portugal
             with: train
             date: '2018-10-19'
