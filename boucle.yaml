@@ -23,6 +23,9 @@ boucle:
             with: train
             date: '2018-10-11'
             duration: 4 days
+            album:
+                path: albums/lisbon
+                cover: PA130947.JPG
         -
             to: Sintra, Portugal
             with: train
@@ -30,7 +33,7 @@ boucle:
             type: daytrip
         -
             to: Lagos, Portugal
-            with: train
+            with: bus
             date: '2018-10-19'
             duration: 3 days
         -
@@ -39,8 +42,8 @@ boucle:
             duration: 3 days
         -
             to: Sevilla, Spain
-            with: train
-            duration: 5 days
+            with: bus
+            duration: 4 days
         -
             to: Màlaga, Spain
             with: train

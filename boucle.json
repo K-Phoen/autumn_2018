@@ -9,10 +9,43 @@
         "with": "plane"
     },
     "end": {
-        "arrival_date": "2018-11-12"
+        "arrival_date": "2018-11-11"
     },
     "steps": {
-        "bus": [],
+        "bus": [
+            {
+                "from": {
+                    "name": "Lisbon, Portugal",
+                    "lat": 38.7077507,
+                    "long": -9.1365919
+                },
+                "to": {
+                    "name": "Lagos, Portugal",
+                    "lat": 37.15313005,
+                    "long": -8.74189647708612
+                },
+                "path": "",
+                "arrival_date": "2018-10-19",
+                "departure_date": "2018-10-22",
+                "album": null
+            },
+            {
+                "from": {
+                    "name": "Faro, Portugal",
+                    "lat": 37.0537571,
+                    "long": -7.93193661699148
+                },
+                "to": {
+                    "name": "Sevilla, Spain",
+                    "lat": 37.3886303,
+                    "long": -5.9953171
+                },
+                "path": "",
+                "arrival_date": "2018-10-25",
+                "departure_date": "2018-10-29",
+                "album": null
+            }
+        ],
         "car": [],
         "plane": [
             {
@@ -46,7 +79,7 @@
                     "long": 4.8320114
                 },
                 "path": "",
-                "arrival_date": "2018-11-12",
+                "arrival_date": "2018-11-11",
                 "departure_date": "",
                 "album": null
             }
@@ -83,7 +116,10 @@
                 "path": "",
                 "arrival_date": "2018-10-11",
                 "departure_date": "2018-10-14",
-                "album": null
+                "album": {
+                    "path": ".\/albums\/lisbon",
+                    "cover": ".\/albums\/lisbon\/boucle\/thumb_PA130947.JPG"
+                }
             },
             {
                 "from": {
@@ -119,22 +155,6 @@
             },
             {
                 "from": {
-                    "name": "Lisbon, Portugal",
-                    "lat": 38.7077507,
-                    "long": -9.1365919
-                },
-                "to": {
-                    "name": "Lagos, Portugal",
-                    "lat": 37.15313005,
-                    "long": -8.74189647708612
-                },
-                "path": "",
-                "arrival_date": "2018-10-19",
-                "departure_date": "2018-10-22",
-                "album": null
-            },
-            {
-                "from": {
                     "name": "Lagos, Portugal",
                     "lat": 37.15313005,
                     "long": -8.74189647708612
@@ -151,22 +171,6 @@
             },
             {
                 "from": {
-                    "name": "Faro, Portugal",
-                    "lat": 37.0537571,
-                    "long": -7.93193661699148
-                },
-                "to": {
-                    "name": "Sevilla, Spain",
-                    "lat": 37.3886303,
-                    "long": -5.9953171
-                },
-                "path": "",
-                "arrival_date": "2018-10-25",
-                "departure_date": "2018-10-30",
-                "album": null
-            },
-            {
-                "from": {
                     "name": "Sevilla, Spain",
                     "lat": 37.3886303,
                     "long": -5.9953171
@@ -177,8 +181,8 @@
                     "long": -4.4216366
                 },
                 "path": "",
-                "arrival_date": "2018-10-30",
-                "departure_date": "2018-11-03",
+                "arrival_date": "2018-10-29",
+                "departure_date": "2018-11-02",
                 "album": null
             },
             {
@@ -193,8 +197,8 @@
                     "long": -3.6021928
                 },
                 "path": "",
-                "arrival_date": "2018-11-03",
-                "departure_date": "2018-11-07",
+                "arrival_date": "2018-11-02",
+                "departure_date": "2018-11-06",
                 "album": null
             },
             {
@@ -209,8 +213,8 @@
                     "long": 2.1774322
                 },
                 "path": "",
-                "arrival_date": "2018-11-07",
-                "departure_date": "2018-11-12",
+                "arrival_date": "2018-11-06",
+                "departure_date": "2018-11-11",
                 "album": null
             }
         ],
