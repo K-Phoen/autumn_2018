@@ -43,7 +43,7 @@ boucle:
         -
             to: Sevilla, Spain
             with: bus
-            duration: 4 days
+            duration: 5 days
         -
             to: Màlaga, Spain
             with: train
