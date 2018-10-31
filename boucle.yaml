@@ -50,7 +50,7 @@ boucle:
             duration: 4 days
         -
             to: Granada, Spain
-            with: train
+            with: bus
             duration: 4 days
         -
             to: Barcelona, Spain
