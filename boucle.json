@@ -44,6 +44,22 @@
                 "arrival_date": "2018-10-25",
                 "departure_date": "2018-10-30",
                 "album": null
+            },
+            {
+                "from": {
+                    "name": "Sevilla, Spain",
+                    "lat": 37.3886303,
+                    "long": -5.9953171
+                },
+                "to": {
+                    "name": "M\u00e0laga, Spain",
+                    "lat": 36.7213028,
+                    "long": -4.4216366
+                },
+                "path": "",
+                "arrival_date": "2018-10-30",
+                "departure_date": "2018-11-03",
+                "album": null
             }
         ],
         "car": [],
@@ -167,22 +183,6 @@
                 "path": "",
                 "arrival_date": "2018-10-22",
                 "departure_date": "2018-10-25",
-                "album": null
-            },
-            {
-                "from": {
-                    "name": "Sevilla, Spain",
-                    "lat": 37.3886303,
-                    "long": -5.9953171
-                },
-                "to": {
-                    "name": "M\u00e0laga, Spain",
-                    "lat": 36.7213028,
-                    "long": -4.4216366
-                },
-                "path": "",
-                "arrival_date": "2018-10-30",
-                "departure_date": "2018-11-03",
                 "album": null
             },
             {
