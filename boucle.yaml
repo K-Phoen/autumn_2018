@@ -54,8 +54,8 @@ boucle:
             duration: 4 days
         -
             to: Barcelona, Spain
-            with: train
-            duration: 5 days
+            with: plane
+            duration: 4 days
         -
             to: Lyon, France
             with: plane

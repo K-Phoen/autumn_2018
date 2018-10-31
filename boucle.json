@@ -9,7 +9,7 @@
         "with": "plane"
     },
     "end": {
-        "arrival_date": "2018-11-12"
+        "arrival_date": "2018-11-11"
     },
     "steps": {
         "bus": [
@@ -85,6 +85,22 @@
             },
             {
                 "from": {
+                    "name": "Granada, Spain",
+                    "lat": 37.183054,
+                    "long": -3.6021928
+                },
+                "to": {
+                    "name": "Barcelona, Spain",
+                    "lat": 41.3828939,
+                    "long": 2.1774322
+                },
+                "path": "",
+                "arrival_date": "2018-11-07",
+                "departure_date": "2018-11-11",
+                "album": null
+            },
+            {
+                "from": {
                     "name": "Barcelona, Spain",
                     "lat": 41.3828939,
                     "long": 2.1774322
@@ -95,7 +111,7 @@
                     "long": 4.8320114
                 },
                 "path": "",
-                "arrival_date": "2018-11-12",
+                "arrival_date": "2018-11-11",
                 "departure_date": "",
                 "album": null
             }
@@ -199,22 +215,6 @@
                 "path": "",
                 "arrival_date": "2018-11-03",
                 "departure_date": "2018-11-07",
-                "album": null
-            },
-            {
-                "from": {
-                    "name": "Granada, Spain",
-                    "lat": 37.183054,
-                    "long": -3.6021928
-                },
-                "to": {
-                    "name": "Barcelona, Spain",
-                    "lat": 41.3828939,
-                    "long": 2.1774322
-                },
-                "path": "",
-                "arrival_date": "2018-11-07",
-                "departure_date": "2018-11-12",
                 "album": null
             }
         ],
