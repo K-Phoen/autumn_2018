@@ -27,7 +27,10 @@
                 "path": "",
                 "arrival_date": "2018-10-19",
                 "departure_date": "2018-10-22",
-                "album": null
+                "album": {
+                    "path": ".\/albums\/lagos",
+                    "cover": ".\/albums\/lagos\/boucle\/thumb_IMG_20181022_110145.jpg"
+                }
             },
             {
                 "from": {
@@ -43,7 +46,10 @@
                 "path": "",
                 "arrival_date": "2018-10-25",
                 "departure_date": "2018-10-30",
-                "album": null
+                "album": {
+                    "path": ".\/albums\/sevilla",
+                    "cover": ".\/albums\/sevilla\/boucle\/thumb_IMG_20181025_163655.jpg"
+                }
             },
             {
                 "from": {
@@ -78,7 +84,24 @@
                 "album": null
             }
         ],
-        "car": [],
+        "car": [
+            {
+                "from": {
+                    "name": "Porto, Portugal",
+                    "lat": 41.1494512,
+                    "long": -8.6107884
+                },
+                "to": {
+                    "name": "Coimbra, Portugal",
+                    "lat": 40.2109801,
+                    "long": -8.4292057
+                },
+                "path": "",
+                "arrival_date": "2018-10-08",
+                "departure_date": "2018-10-11",
+                "album": null
+            }
+        ],
         "plane": [
             {
                 "from": {
@@ -134,22 +157,6 @@
         ],
         "boat": [],
         "train": [
-            {
-                "from": {
-                    "name": "Porto, Portugal",
-                    "lat": 41.1494512,
-                    "long": -8.6107884
-                },
-                "to": {
-                    "name": "Coimbra, Portugal",
-                    "lat": 40.2109801,
-                    "long": -8.4292057
-                },
-                "path": "",
-                "arrival_date": "2018-10-08",
-                "departure_date": "2018-10-11",
-                "album": null
-            },
             {
                 "from": {
                     "name": "Coimbra, Portugal",
@@ -215,7 +222,10 @@
                 "path": "",
                 "arrival_date": "2018-10-22",
                 "departure_date": "2018-10-25",
-                "album": null
+                "album": {
+                    "path": ".\/albums\/faro",
+                    "cover": ".\/albums\/faro\/boucle\/thumb_PA221162.JPG"
+                }
             }
         ],
         "walking": []

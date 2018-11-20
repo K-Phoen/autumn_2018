@@ -16,7 +16,7 @@ boucle:
                 cover: PA060804.JPG
         -
             to: Coimbra, Portugal
-            with: train
+            with: car
             date: '2018-10-08'
         -
             to: Lisbon, Portugal
@@ -36,14 +36,23 @@ boucle:
             with: bus
             date: '2018-10-19'
             duration: 3 days
+            album:
+                path: albums/lagos
+                cover: IMG_20181022_110145.jpg
         -
             to: Faro, Portugal
             with: train
             duration: 3 days
+            album:
+                path: albums/faro
+                cover: PA221162.JPG
         -
             to: Sevilla, Spain
             with: bus
             duration: 5 days
+            album:
+                path: albums/sevilla
+                cover: IMG_20181025_163655.jpg
         -
             to: Màlaga, Spain
             with: bus
