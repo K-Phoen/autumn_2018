@@ -81,7 +81,10 @@
                 "path": "",
                 "arrival_date": "2018-11-03",
                 "departure_date": "2018-11-07",
-                "album": null
+                "album": {
+                    "path": ".\/albums\/granada",
+                    "cover": ".\/albums\/granada\/boucle\/thumb_PB041305.JPG"
+                }
             }
         ],
         "car": [

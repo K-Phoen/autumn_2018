@@ -61,6 +61,9 @@ boucle:
             to: Granada, Spain
             with: bus
             duration: 4 days
+            album:
+                path: albums/granada
+                cover: PB041305.JPG
         -
             to: Barcelona, Spain
             with: plane
